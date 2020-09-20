@@ -1,0 +1,14 @@
+C:\Users\AVS TECH\source\repos\scoreapp\bin\Debug\netcoreapp2.1\scoreapp.deps.json
+C:\Users\AVS TECH\source\repos\scoreapp\bin\Debug\netcoreapp2.1\scoreapp.runtimeconfig.json
+C:\Users\AVS TECH\source\repos\scoreapp\bin\Debug\netcoreapp2.1\scoreapp.runtimeconfig.dev.json
+C:\Users\AVS TECH\source\repos\scoreapp\bin\Debug\netcoreapp2.1\scoreapp.dll
+C:\Users\AVS TECH\source\repos\scoreapp\obj\Debug\netcoreapp2.1\scoreapp.csprojAssemblyReference.cache
+C:\Users\AVS TECH\source\repos\scoreapp\obj\Debug\netcoreapp2.1\scoreapp.csproj.CoreCompileInputs.cache
+C:\Users\AVS TECH\source\repos\scoreapp\obj\Debug\netcoreapp2.1\scoreapp.RazorAssemblyInfo.cache
+C:\Users\AVS TECH\source\repos\scoreapp\obj\Debug\netcoreapp2.1\scoreapp.RazorAssemblyInfo.cs
+C:\Users\AVS TECH\source\repos\scoreapp\obj\Debug\netcoreapp2.1\scoreapp.AssemblyInfoInputs.cache
+C:\Users\AVS TECH\source\repos\scoreapp\obj\Debug\netcoreapp2.1\scoreapp.AssemblyInfo.cs
+C:\Users\AVS TECH\source\repos\scoreapp\obj\Debug\netcoreapp2.1\scoreapp.RazorTargetAssemblyInfo.cache
+C:\Users\AVS TECH\source\repos\scoreapp\bin\Debug\netcoreapp2.1\scoreapp.pdb
+C:\Users\AVS TECH\source\repos\scoreapp\obj\Debug\netcoreapp2.1\scoreapp.dll
+C:\Users\AVS TECH\source\repos\scoreapp\obj\Debug\netcoreapp2.1\scoreapp.pdb
